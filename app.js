@@ -1,0 +1,1 @@
+const myVarName = 'angga';
